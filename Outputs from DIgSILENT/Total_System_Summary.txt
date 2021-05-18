@@ -1,0 +1,40 @@
+-----------------------------------------------------------------------------------------------------------------------------------
+|                 |                                                                |   DIgSILENT   | Project:                     |
+|                 |                                                                | PowerFactory  |-------------------------------
+|                 |                                                                |    2021 SP2   | Date:  19.05.2021            |
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+| Load Flow Calculation                                                                                      Total System Summary |
+-----------------------------------------------------------------------------------------------------------------------------------
+|     AC Load Flow, balanced, positive sequence              |    Automatic Model Adaptation for Convergence            No        |
+|     Automatic tap adjustment of transformers        No     |    Max. Acceptable Load Flow Error                                 |
+|     Consider reactive power limits                  No     |       Bus Equations(HV)                                  1,00 kVA  |
+|                                                            |       Model Equations                                    0,10 %    |
+-----------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+| Total System Summary                                     | Study Case: Study Case                | Annex:                  / 1  |
+-----------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                 |
+| No. of Substations     0          No. of Busbars        44         No. of Terminals      0          No. of Lines          53    |
+| No. of 2-w Trfs.       0          No. of 3-w Trfs.      0          No. of syn. Machines  13         No. of asyn.Machines  0     |
+| No. of Loads           26         No. of Shunts/Filters 11         No. of SVS            0                                      |
+|                                                                                                                                 |
+| Generation            =    6704,00  MW           72,06   Mvar      6704,39  MVA                                                 |
+| External Infeed       =       0,00  MW            0,00   Mvar         0,00  MVA                                                 |
+| Load P(U)             =    6600,00  MW         2154,90   Mvar      6942,88  MVA                                                 |
+| Load P(Un)            =    6600,00  MW         2154,90   Mvar      6942,88  MVA                                                 |
+| Load P(Un-U)          =       0,00  MW           -0,00   Mvar                                                                   |
+| Motor Load            =       0,00  MW            0,00   Mvar         0,00  MVA                                                 |
+| Grid Losses           =     104,00  MW        -3073,34   Mvar                                                                   |
+| Line Charging         =                       -4081,69   Mvar                                                                   |
+| Compensation ind.     =                         990,50   Mvar                                                                   |
+| Compensation cap.     =                           0,00   Mvar                                                                   |
+|                                                                                                                                 |
+| Installed Capacity    =    7576,00  MW                                                                                          |
+| Spinning Reserve      =     872,00  MW                                                                                          |
+|                                                                                                                                 |
+| Total Power Factor:                                                                                                             |
+|   Generation          =         1,00  [-]                                                                                       |
+|   Load/Motor          =  0,95 / 0,00  [-]                                                                                       |
+|---------------------------------------------------------------------------------------------------------------------------------|
+
